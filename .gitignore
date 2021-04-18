@@ -1,0 +1,4 @@
+/.vs
+/x64
+/VideoProcessor/x64
+*.h264
